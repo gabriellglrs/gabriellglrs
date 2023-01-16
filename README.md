@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Gabriel+Lucas;Tenho+20+anos;Sou+do+Brasil+Moro+em+Brasilia+DF;Estou+Cursando+Engenharia+de+Software;Seja+Bem-Vinda!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Gabriel+Lucas;Tenho+20+anos;Sou+do+Brasil+Moro+em+Brasilia+DF;Estou+Cursando+Engenharia+de+Software;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
    <p><strong>Habilidades Principais:<strong></p>
@@ -10,12 +10,11 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  
-</div>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  </div>
 
 <div align="center"> 
   <p><strong>Estudando neste momento:<strong></p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
