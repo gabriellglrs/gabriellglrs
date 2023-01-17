@@ -42,7 +42,7 @@
 <a href="https://contate.me/gabriellglrs" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://t.me/Engenheiro9" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
 <a href = "mailto:gabriellglrs@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
-<a href="https://www.linkedin.com/in/%C9%A2%E1%B4%80%CA%99%CA%80%C9%AA%E1%B4%87%CA%9F-%CA%9F%E1%B4%9C%E1%B4%84%E1%B4%80%EA%9C%B1-b24504239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/gabriellglrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
  <div align="center">
