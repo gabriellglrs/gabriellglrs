@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Gabriel+Lucas;Tenho+20+anos;Sou+do+Brasil+Moro+em+Brasilia+DF;Estou+Cursando+Engenharia+de+Software;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
-   <p><strong>Habilidades Principais:<strong></p>
+   <p><strong>HABILIDADES PRINCIPAIS:<strong></p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -15,7 +15,7 @@
   </div>
 
 <div align="center"> 
-  <p><strong>Estudando neste momento:<strong></p>
+  <p><strong>ESTUDANDO NESTE MOMENTO:<strong></p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
