@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Gabriel+Lucas;Tenho+20+anos;Sou+do+Brasil+Moro+em+Brasilia+DF;Estou+Cursando+Engenharia+de+Software;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=46&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Gabriel+Lucas;Tenho+20+anos;Sou+do+Brasil+Moro+em+Brasilia+DF;Estou+Cursando+Engenharia+de+Software;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <p><strong>HABILIDADES PRINCIPAIS:<strong></p>
