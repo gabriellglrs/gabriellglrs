@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=53&center=true&vCenter=true&width=1000&lines=Olá+tudo+bem?;Meu+nome+é+Gabriel+Lucas;Tenho+20+anos;Sou+do+Brasil;Moro+em+Brasilia+DF;Estou+Cursando;Engenharia+de+Software;e+sou+um+develop+full+stack+jr;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <p><strong>HABILIDADES PRINCIPAIS:<strong></p>
+  <p><strong>FRONT-END:<strong></p>
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -15,7 +15,7 @@
  </div>
        <br>
 <div align="center"> 
-    <p><strong>ESTUDANDO NESTE MOMENTO:<strong></p>
+    <p><strong>BACK-END:<strong></p>
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
      <Img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
