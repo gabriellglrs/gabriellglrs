@@ -28,8 +28,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=8B0000&text_color=F8F8FF&bg_color=000000" alt="gabriel lucas github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellglrs&layout=compact&hide_border=true&title_color=000000&text_color=F8F8FFbg_color=0d1117" />
 </div>
-      
-      ![Snake animation](https://github.com/gabriellglrs/gabriellglrs/blob/output/github-contribution-grid-snake.svg) 
+
+![Snake animation](https://github.com/gabriellglrs/gabriellglrs/blob/output/github-contribution-grid-snake.svg) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabriellglrs&bg_color=0d1117&color=ffffff&line=008000&point=11e70d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
