@@ -25,15 +25,14 @@
  </div>
      <br>
 <div align="center">  
-  <img width="49%" height="285px" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellglrs&theme=chartreuse-dark&hide_border=false" /> 
-  <img width="46%" height="285px" src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=8B0000&text_color=F8F8FF&bg_color=000000" alt="gabriel lucas github stats" /> 
-  <img width="49%" height="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellglrs&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img width="46%" height="285px" src="https://github-contributor-stats.vercel.app/api?username=gabriellglrs&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellglrs&theme=chartreuse-dark&hide_border=false" /> 
+  <img width="46%" height="200px" src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=8B0000&text_color=F8F8FF&bg_color=000000" alt="gabriel lucas github stats" /> 
+  <img width="49%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellglrs&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="46%" height="240px" src="https://github-contributor-stats.vercel.app/api?username=gabriellglrs&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
       
 <div align="center">
-  <br>
-    <img width="99%" height="300px" src="https://github-readme-activity-graph.cyclic.app/graph?username=gabriellglrs&bg_color=0d1117&color=ffffff&line=008000&point=11e70d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+    <img width="100%" height="337px" src="https://github-readme-activity-graph.cyclic.app/graph?username=gabriellglrs&bg_color=0d1117&color=ffffff&line=008000&point=11e70d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </div>
 
 <p align="center">
