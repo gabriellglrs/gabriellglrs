@@ -25,14 +25,18 @@
  </div>
      <br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=8B0000&text_color=F8F8FF&bg_color=000000" alt="gabriel lucas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellglrs&layout=compact&hide_border=true&title_color=000000&text_color=F8F8FFbg_color=0d1117" />
+  <img width="49%" height="285px" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellglrs&theme=chartreuse-dark&hide_border=false" /> 
+  <img width="46%" height="285px" src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=8B0000&text_color=F8F8FF&bg_color=000000" alt="gabriel lucas github stats" /> 
+  <img width="49%" height="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellglrs&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="46%" height="285px" src="https://github-contributor-stats.vercel.app/api?username=gabriellglrs&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabriellglrs&bg_color=0d1117&color=ffffff&line=008000&point=11e70d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <br>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=gabriellglrs&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 
@@ -40,10 +44,14 @@
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabriellglrs}/count.svg" /></p> 
-<br>
+   <img align="center" width="200px%" height="30px" src="https://visitcount.itsvg.in/api?id=gabriellglrs&icon=2&color=3" />
+ </br>
 </div>
  
 <div align="center"> 
+  <br>
+  <br>
+  <br>
 <a href="https://instagram.com/gabrielglrs10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://contate.me/gabriellglrs" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://t.me/Gabriellglrs" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
