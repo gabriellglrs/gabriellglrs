@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=53&center=true&vCenter=true&width=1000&lines=Olá+tudo+bem?;Meu+nome+é+Gabriel+Lucas;Tenho+20+anos;Sou+do+Brasil;Moro+em+Brasilia+DF;Estou+Cursando;Engenharia+de+Software;e+sou+um+develop+full+stack+jr;Seja+Bem-Vindo!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=53&center=true&vCenter=true&width=1000&lines=Olá+tudo+bem?;Meu+nome+é+Gabriel+Lucas;Tenho+20+anos;Sou+do+Brasil;Moro+em+Brasilia+DF;Estou+Cursando;Engenharia+de+Software;e+sou+um+develop+Front-End;Seja+Bem-Vindo!:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <p><strong>FRONT-END:<strong></p>
@@ -30,8 +30,11 @@
   <img width="49%" height="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellglrs&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <img width="46%" height="285px" src="https://github-contributor-stats.vercel.app/api?username=gabriellglrs&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabriellglrs&bg_color=0d1117&color=ffffff&line=008000&point=11e70d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+      
+<div align="center">
+  <br>
+    <img width="99%" height="300px" src="https://github-readme-activity-graph.cyclic.app/graph?username=gabriellglrs&bg_color=0d1117&color=ffffff&line=008000&point=11e70d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+</div>
 
 <p align="center">
   <br>
@@ -44,7 +47,8 @@
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabriellglrs}/count.svg" /></p> 
-   <img align="center" width="200px%" height="30px" src="https://visitcount.itsvg.in/api?id=gabriellglrs&icon=2&color=3" />
+   <br>
+   <img align="center" width="200px" height="35px" src="https://visitcount.itsvg.in/api?id=gabriellglrs&icon=2&color=3" />
  </br>
 </div>
  
