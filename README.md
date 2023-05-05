@@ -3,6 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=53&center=true&vCenter=true&width=1000&lines=Olá+tudo+bem?;Meu+nome+é+Gabriel+Lucas;Tenho+20+anos;Sou+do+Brasil;Moro+em+Brasilia+DF;Estou+Cursando;Engenharia+de+Software;e+sou+um+develop+Front-End;Seja+Bem-Vindo!:%29)](https://git.io/typing-svg)
 
 <div align="center">
+   <a href="https://gabriellglrs.github.io/Portfolio/" target="_blank"><img width="120px" src="https://img.shields.io/badge/website-008000?style=for-the-     badge&logo=About.me&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <br>
+  <br>  
+</div>
+  
+<div align="center">
   <p><strong>FRONT-END:<strong></p>
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
