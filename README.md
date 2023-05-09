@@ -42,7 +42,7 @@
    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellglrs&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> 
 
 <div align="center">    
-<img src="https://github-contributor-stats.vercel.app/api?username=gabriellglrs&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=gabriellglrs&limit=20&theme=dark&combine_all_yearly_contributions=true" />
 </div> 
        
          
