@@ -19,7 +19,7 @@
   <img width="50px" height="50px" src="./img/html5-original.svg" />
   <img width="50px" height="50px" src="./img/css3-original.svg" /> 
   <img width="50px" height="50px" src="./img/sass-original.svg" /> 
-  <img width="50px" height="50px" src="./img/tailwindcss-plain.svg" />
+<img width="50px" height="50px" src="./img/tailwindcss-plain.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -50,12 +50,6 @@
 <div align="center">
     <img height="337px" src="https://github-readme-activity-graph.cyclic.app/graph?username=gabriellglrs&bg_color=0d1117&color=4C89F8&line=4C89F8&point=11e70d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </div>
-
-<p align="center">
-  <br>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=gabriellglrs&theme=monokai&no-frame=true&no-bg=true&margin-w=3" />
-</p>
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
