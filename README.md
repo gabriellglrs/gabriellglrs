@@ -47,10 +47,6 @@
 <div align="center">
    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellglrs&theme=chartreuse-dark&hide_border=false&&title_color=4C89F8include_all_commits=true&count_private=true&layout=compact" />
 
-<div align="center">
-    <img height="337px" src="https://github-readme-activity-graph.cyclic.app/graph?username=gabriellglrs&bg_color=0d1117&color=4C89F8&line=4C89F8&point=11e70d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
-</div>
-
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabriellglrs}/count.svg" /></p> 
