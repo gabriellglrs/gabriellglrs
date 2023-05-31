@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=45&center=true&vCenter=true&width=1000&lines=Estou+OFF+!!!;Estou+estudando;uma+nova+linguagen!!!;logo+logo+voltarei;a+fazer+novos+commits:%29)](https://git.io/typing-svg)
 
-<img src="./img/Banner.png"/>
+<img src="./img/banner2.png"/>  
 
 <div align="center">
 <br>
