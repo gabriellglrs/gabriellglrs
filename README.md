@@ -1,6 +1,6 @@
 <img src="./img/banner github.png"/> <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=45&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a);ao+meu+GitHub!;Sou+Gabriel+Lucas;um+desenvolvedor+full+stack;apaixonado+por+tecnologia+e+inovação.%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=45&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a);ao+meu+GitHub!;Sou+Gabriel+Lucas;Desenvolvedor;Backend+Java;apaixonado;Por+tecnologia+e+Inovação!.%29)](https://git.io/typing-svg)
 
 <div align="center"><br>
    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellglrs&theme=chartreuse-dark&hide_border=false&&title_color=4C89F8include_all_commits=true&count_private=true&layout=compact" />
