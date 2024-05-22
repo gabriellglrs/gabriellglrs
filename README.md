@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=30&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriel+Lucas;Desenvolvedor;Backend+Java;apaixonado;Por+tecnologia+e+Inovação!%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&title_color=4C89F8&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="170" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&title_color=4C89F8&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellglrs&locale=pt-br&title_color=4C89F8&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
   <br>
