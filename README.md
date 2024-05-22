@@ -8,6 +8,10 @@
 </div>
   <br>
   <br>
+  
+<img src="https://raw.githubusercontent.com/gabriellglrs/gabriellglrs/output/snake.svg" alt="Snake animation" />
+ <br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="40" />
@@ -32,11 +36,7 @@
 <a href="https://instagram.com/dev.gabriellucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://contate.me/gabriellglrs" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div> 
-
- <br>
-<img src="https://raw.githubusercontent.com/gabriellglrs/gabriellglrs/output/snake.svg" alt="Snake animation" />
- <br>
- 
+  <br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/gabriellglrs/count.svg?"  />
 </div>
