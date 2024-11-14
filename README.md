@@ -1,4 +1,4 @@
-<img src="./img/banner github.png"/> <br><br>
+<img src="./img/banner github1.png.png"/> <br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=30&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriel+Lucas;Desenvolvedor;Backend+Java;apaixonado;Por+tecnologia+e+Inovação!%29)](https://git.io/typing-svg)
 
