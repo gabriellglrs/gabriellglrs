@@ -1,6 +1,7 @@
 <img src="./img/banner.png"/> <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=30&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriel+Lucas;Desenvolvedor;Backend+Java;apaixonado;Por+tecnologia+e+Inovação!%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=30&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriel+Lucas;Desenvolvedor+Backend+e+Frontend;Especialista+em+Java+e+Spring;Trabalhando+com+Angular+no+Frontend;Apaixonado+por+Tecnologia+e+Inovação;Focado+em+Resolver+Problemas+Reais;Sempre+Buscando+Aprender+e+Evoluir!)](https://git.io/typing-svg)
+
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellglrs&locale=pt-br&title_color=4C89F8&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=true&order=2" height="170" alt="languages graph"  />
