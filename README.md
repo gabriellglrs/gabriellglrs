@@ -25,7 +25,7 @@
   <img src="https://profile-counter.glitch.me/gabriellglrs/count.svg?"  />
 </div>
 <br>
-
+<br>
 <div align="center">
   <img src="./img/fotoperfil.png" height="150"/>
 </div>
