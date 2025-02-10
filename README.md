@@ -7,18 +7,13 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellglrs&locale=pt-br&title_color=4C89F8&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=true&order=2" height="170" alt="languages graph"  />
  <img src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&title_color=4C89F8&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="170" alt="stats graph"  />
 </div>
-  <br>
-  <br>
-
+<br>
 <div align="right">
   <img src="./img/business-3d-black-businessman-leaning-hand-on-wall-329x456%201.png" height="200"/>
 </div>
-
 <img src="https://raw.githubusercontent.com/gabriellglrs/gabriellglrs/output/snake.svg" alt="Snake animation" />
- <br>
 
-<div align="center"> 
-  <br>
+<div align="center">
   <br>
 <a href="https://www.linkedin.com/in/gabriellglrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href = "mailto:gabriellglrs@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
@@ -26,12 +21,11 @@
 <a href="https://contate.me/gabriellglrs" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div> 
   <br>
-   <br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/gabriellglrs/count.svg?"  />
 </div>
 <br>
-<br>
+
 <div align="center">
   <img src="./img/fotoperfil.png" height="150"/>
 </div>
