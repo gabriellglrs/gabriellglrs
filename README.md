@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=30&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriel+Lucas;Desenvolvedor+Backend+e+Frontend;Especialista+em+Java+e+Spring;Trabalhando+com+Angular+no+Frontend;Apaixonado+por+Tecnologia+e+Inovação;Focado+em+Resolver+Problemas+Reais;Sempre+Buscando+Aprender+e+Evoluir!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=30&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriel+Lucas+Rodrigues+Souza;Desenvolvedor+Backend+com+Java+e+Spring+Boot;Experiência+com+TypeScript,+NestJS+e+React;Frontend+com+ReactJS;Focado+em+APIs+REST,+Clean+Code+e+Microserviços;Apaixonado+por+Tecnologia+e+Inovação;Sempre+em+busca+de+evoluir+e+resolver+problemas+reais!)](https://git.io/typing-svg)
 
 
 <div align="center">
