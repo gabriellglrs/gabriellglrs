@@ -12,8 +12,9 @@
  <img src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&title_color=4C89F8&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="170" alt="stats graph"  />
 </div>
 <br>
-<div align="right">
-  <img src="./img/business-3d-black-businessman-leaning-hand-on-wall-329x456%201.png" height="200"/>
+<div >
+  <img align="right" src="./img/business-3d-black-businessman-leaning-hand-on-wall-329x456%201.png" height="200"/>
+   <img align="left" src="./img/business-3d-young-man-standing-with-laptop-1242x3412 1.png" height="200"/>
 </div>
 <img src="https://raw.githubusercontent.com/gabriellglrs/gabriellglrs/output/snake.svg" alt="Snake animation" />
 
