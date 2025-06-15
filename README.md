@@ -13,8 +13,8 @@
 </div>
 <br>
 <div >
-  <img align="right" src="./img/business-3d-black-businessman-leaning-hand-on-wall-329x456%201.png" height="200"/>
-   <img align="left" src="./img/business-3d-young-man-standing-with-laptop-1242x3412 1.png" height="200"/>
+  <img align="right" src="./img/business-3d-black-businessman-leaning-hand-on-wall-329x456%201.png" height="250"/>
+   <img align="left" src="./img/business-3d-young-man-standing-with-laptop-1242x3412 1.png" height="250"/>
 </div>
 <img src="https://raw.githubusercontent.com/gabriellglrs/gabriellglrs/output/snake.svg" alt="Snake animation" />
 
