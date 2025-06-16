@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=header"/>
 
-![LinkedIn cover - 27](https://github.com/user-attachments/assets/96a31576-5bff-44bd-9dcc-6c879d4abfdd)
+
+![LinkedIn cover - 27](https://github.com/user-attachments/assets/62db7d37-d6ad-450d-9cd1-f3ced029d379)
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=30&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriel+Lucas+Rodrigues+Souza;Desenvolvedor+Backend+com+Java+e+Spring+Boot;Experiência+com+TypeScript,+NestJS+e+React;Frontend+com+ReactJS;Focado+em+APIs+REST,+Clean+Code+e+Microserviços;Apaixonado+por+Tecnologia+e+Inovação;Sempre+em+busca+de+evoluir+e+resolver+problemas+reais!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=30&center=true&vCenter=true&width=1000&duration=4000&pause=1000&lines=Olá,+seja+bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriel+Lucas+Rodrigues+Souza;Desenvolvedor+Backend+com+Java+e+Spring+Boot;Experiência+com+TypeScript,+e+NestJS;Experiência+com+Frontend+ReactJS+e+Next.js;Focado+em+APIs+REST,+Clean+Code+e+Microserviços;Apaixonado+por+tecnologia,+inovação+e+soluções+reais)](https://git.io/typing-svg)
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellglrs&locale=pt-br&title_color=4C89F8&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=true&order=2" height="170" alt="languages graph"  />
