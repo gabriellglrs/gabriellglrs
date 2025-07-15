@@ -8,8 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C89F8&size=30&center=true&vCenter=true&width=1000&duration=4000&pause=1000&lines=Olá,+seja+bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriel+Lucas+Rodrigues+Souza;Desenvolvedor+Backend+com+Java+e+Spring+Boot;Experiência+com+TypeScript,+e+NestJS;Experiência+em+Frontend+com+ReactJS+e+Next.js;Focado+em+APIs+REST+e+GraphQL,+Clean+Code+e+Microserviços;Apaixonado+por+tecnologia,+inovação+e+soluções+reais)](https://git.io/typing-svg)
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellglrs&locale=pt-br&title_color=4C89F8&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
- <img src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&title_color=4C89F8&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="250" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellglrs&locale=pt-br&title_color=4C89F8&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=true&order=0" height="250" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&title_color=4C89F8&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=0" height="250" alt="stats graph"  />
 </div>
 <br>
 <div >
