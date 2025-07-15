@@ -10,8 +10,9 @@
 <br>
 <br>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellglrs&locale=pt-br&title_color=4C89F8&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=true&order=2&cache_seconds=1800" height="250" alt="languages graph"  />
- <img src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&title_color=4C89F8&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=2&cache_seconds=1800" height="250" alt="stats graph"  /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellglrs&locale=pt-br&title_color=4C89F8&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=true&cache_seconds=1800" height="250" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=gabriellglrs&title_color=4C89F8&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&cache_seconds=1800" height="250" alt="stats graph"  />
+</div>
 </div>
 <br>
 <br>
