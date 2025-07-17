@@ -53,6 +53,8 @@
 <div align="center">
   
 ### 💡 *"O código é como humor. Quando você tem que explicar, é ruim."* - Cory House
+### 💡 *"Primeiro, faça funcionar. Depois, faça bonito. Por fim, faça rápido."* – Kent Beck
+### 💡 *"Programar é como escrever um livro... exceto que se você esquecer uma vírgula, tudo explode."* – DevGabriellucas
 
 **⭐ Deixe uma estrela nos repositórios se gostou do conteúdo!**  
 **🤝 Sempre aberto para colaborações e novos projetos**
