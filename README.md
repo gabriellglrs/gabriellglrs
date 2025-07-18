@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellglrs&theme=dark&hide_border=true&cache_seconds=1800&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D&ring=4C89F8&fire=4C89F8&currStreakLabel=4C89F8&sideNums=4C89F8&sideLabels=4C89F8&dates=4C89F8&stroke=4C89F8&background=1A1E29" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellglrs&theme=dracula&bg_color=282A36&hide_border=true&cache_seconds=1800&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D&ring=4C89F8&fire=4C89F8&currStreakLabel=4C89F8&sideNums=4C89F8&sideLabels=4C89F8&dates=4C89F8&stroke=4C89F8&background=1A1E29" alt="GitHub Streak" />
 </div>
 <br>
 <br>
@@ -32,7 +32,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellglrs&theme=dracula&cache_seconds=1800&hide_border=true&bg_color=282A36&color=F8F8F2&line=4C89F8&point=50FA7B" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellglrs&theme=dracula&cache_seconds=1800&hide_border=true&bg_color=282A36&color=F8F8F2&line=4C89F8&point=4C89F8" alt="Activity Graph" />
 </div>
 <br>
 <br>
