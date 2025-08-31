@@ -51,10 +51,15 @@
 </div>
 
 <div align="center">
-  
-### 💡 *"O código é como humor. Quando você tem que explicar, é ruim."* - Cory House
-### 💡 *"Primeiro, faça funcionar. Depois, faça bonito. Por fim, faça rápido."* – Kent Beck
-### 💡 *"Programar é como escrever um livro... exceto que se você esquecer uma vírgula, tudo explode."* – DevGabriellucas
+
+
+### 💡 *"Todo mundo neste país deveria aprender a programar um computador, porque isso te ensina a pensar."* – Steve Jobs
+### 💡 *"Código limpo sempre parece que foi escrito por alguém que se importa."* - Robert C. Martin
+### 💡 *"Qualquer idiota consegue escrever código que um computador entende. Bons programadores escrevem código que humanos conseguem entender."* – Martin Fowler
+### 💡 *"Quando você sente a necessidade de escrever um comentário, primeiro tente refatorar o código para que qualquer comentário se torne supérfluo."* – Martin Fowler
+
+<br>
+<br>
 
 **⭐ Deixe uma estrela nos repositórios se gostou do conteúdo!**  
 **🤝 Sempre aberto para colaborações e novos projetos**
