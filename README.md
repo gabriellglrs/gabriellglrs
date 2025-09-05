@@ -31,10 +31,16 @@
 <img src="https://raw.githubusercontent.com/gabriellglrs/gabriellglrs/output/snake.svg" alt="Snake animation" />
 <br>
 <br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellglrs&theme=dracula&cache_seconds=1800&hide_border=true&bg_color=282A36&color=F8F8F2&line=4C89F8&point=4C89F8" alt="Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellglrs&theme=dracula&days=60&hide_border=true&bg_color=282A36&color=F8F8F2&line=4C89F8&point=4C89F8" 
+    alt="Activity Graph" 
+  />
 </div>
+
 <br>
+
 <br>
 <div align="center">
   <br>
@@ -65,6 +71,12 @@
 **🤝 Sempre aberto para colaborações e novos projetos**
 
 </div>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabriellglrs&color=4C89F8&style=for-the-badge" alt="Profile views"/>
+</p>
+<br>
+
 <br>
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=footer"/>
