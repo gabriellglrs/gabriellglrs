@@ -86,9 +86,6 @@
   <img src="https://komarev.com/ghpvc/?username=gabriellglrs&color=4C89F8&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<br>
-<br>
-
 <div align="center">
   <br>
 <a href="https://www.linkedin.com/in/gabriellglrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
