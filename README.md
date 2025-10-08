@@ -39,7 +39,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriellglrs&repo=notes_laravel&title_color=4C89F8&theme=dracula&hide_border=true)](https://github.com/gabriellglrs/notes_laravel)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriellglrs&repo=math-X&title_color=4C89F8&theme=dracula&hide_border=true)](https://github.com/gabriellglrs/math-X)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriellglrs&repo=DocExtractAPI&title_color=4C89F8&theme=dracula&hide_border=true)](https://github.com/gabriellglrs/DocExtractAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriellglrs&repo=snake_game_pygame&title_color=4C89F8&theme=dracula&hide_border=true)](https://github.com/gabriellglrs/snake_game_pygame)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriellglrs&repo=automacao_selenium&title_color=4C89F8&theme=dracula&hide_border=true)](https://github.com/gabriellglrs/automacao_selenium)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriellglrs&repo=microsservice-async-communication&title_color=4C89F8&theme=dracula&hide_border=true)](https://github.com/gabriellglrs/microsservice-async-communication)
